@@ -107,6 +107,7 @@ Monitoring & Observability
 
        <div align="center">
 
+---
 </div>
 🔄 CI/CD Workflow
 Code Push
@@ -131,13 +132,6 @@ Prometheus / Grafana / Datadog
 🐳 Kubernetes & Containers
 <div align="center">
 
-
-
-
-
-
-
-
 </div>
 Kubernetes Experience
 Amazon EKS cluster deployment
@@ -154,17 +148,7 @@ Containerized application deployments
 📊 Monitoring & Observability
 <div align="center">
 
-
-
-
-
-
-
-
-
-
-
-
+---
 </div>
 🌟 Featured DevOps Projects
 

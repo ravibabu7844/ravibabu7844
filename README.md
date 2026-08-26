@@ -74,26 +74,48 @@ I work with **AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, Ansib
 
 ## 🔄 CI/CD Pipeline
 
-```text
-Developer
-    ↓
-GitHub / Bitbucket
-    ↓
-Jenkins / GitHub Actions / Azure DevOps / Harness
-    ↓
-Build & Test
-    ↓
-SonarQube
-    ↓
-Docker Build
-    ↓
-Container Registry
-    ↓
-Kubernetes / Amazon EKS
-    ↓
-Application Deployment
-    ↓
-Prometheus / Grafana / Datadog
+<div align="center">
+
+**👨‍💻 Developer**
+
+⬇️
+
+**🔀 GitHub / Bitbucket**
+
+⬇️
+
+**⚙️ Jenkins / GitHub Actions / Azure DevOps / Harness**
+
+⬇️
+
+**🧪 Build & Test**
+
+⬇️
+
+**🔍 SonarQube**
+
+⬇️
+
+**🐳 Docker Build**
+
+⬇️
+
+**📦 Container Registry**
+
+⬇️
+
+**☸️ Kubernetes / Amazon EKS**
+
+⬇️
+
+**🚀 Application Deployment**
+
+⬇️
+
+**📊 Prometheus / Grafana / Datadog**
+
+</div>
+
 ---
 
 ## 🌟 Featured DevOps Projects
@@ -104,9 +126,10 @@ Prometheus / Grafana / Datadog
 
 - AWS infrastructure provisioning
 - VPC and networking
-- IAM configuration
-- S3 remote state
-- Terraform automation
+- EC2 and IAM configuration
+- S3 remote state backend
+- Terraform state management
+- Infrastructure automation
 
 ### ☸️ Kubernetes / Amazon EKS
 
@@ -116,6 +139,7 @@ Prometheus / Grafana / Datadog
 - Kubernetes deployments
 - Services and Ingress
 - Helm deployments
+- AWS Load Balancer Controller
 - Application scaling
 
 ### 🔄 Jenkins CI/CD Pipeline
@@ -125,25 +149,95 @@ Prometheus / Grafana / Datadog
 - Automated build pipeline
 - SonarQube integration
 - Docker image creation
+- Container registry integration
 - Kubernetes deployment
-
+- Continuous delivery
 ---
 
 ## 🎯 What I Do
 
-```text
-☁️ Cloud Infrastructure
-        ↓
-🏗️ Infrastructure as Code
-        ↓
-🔄 CI/CD Automation
-        ↓
-🐳 Containerization
-        ↓
-☸️ Kubernetes / Amazon EKS
-        ↓
-📊 Monitoring & Observability
-        ↓
-🔐 Security & Reliability
-        ↓
-🚀 Continuous Delivery
+☁️ **Cloud Infrastructure**  
+↓  
+🏗️ **Infrastructure as Code**  
+↓  
+🔄 **CI/CD Automation**  
+↓  
+🐳 **Containerization**  
+↓  
+☸️ **Kubernetes / Amazon EKS**  
+↓  
+📊 **Monitoring & Observability**  
+↓  
+🔐 **Security & Reliability**  
+↓  
+🚀 **Continuous Delivery**
+
+</div>
+
+---
+
+## 🧰 Tools & Technologies
+
+| Category | Technologies |
+|---|---|
+| ☁️ Cloud | AWS, Azure, GCP |
+| 🏗️ Infrastructure as Code | Terraform, Ansible |
+| 🐳 Containers | Docker, Kubernetes, Amazon EKS |
+| 🔄 CI/CD | Jenkins, GitHub Actions, Azure DevOps, Harness, Bamboo |
+| 📊 Monitoring | Prometheus, Grafana, Datadog, Splunk, ELK, CloudWatch |
+| 🔧 Scripting | Bash, Python, PowerShell |
+| 🔀 Version Control | Git, GitHub, Bitbucket |
+| 🔍 Code Quality | SonarQube |
+| 📦 Packaging | Helm |
+| 🎫 Collaboration | Jira, Confluence |
+
+---
+
+## 📚 Currently Exploring
+
+- ☸️ Advanced Kubernetes
+- ☁️ AWS Cloud Architecture
+- 🏗️ Advanced Terraform
+- 🔄 GitOps & CI/CD Automation
+- 📊 Cloud Observability
+- 🔐 DevSecOps
+- ⚙️ Platform Engineering
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ravibabu7844&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ravibabu7844&theme=radical&hide_border=true"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibabu7844&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ravibabudodda/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ravibabu7844">
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ **Thanks for visiting my profile!**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=140&section=footer&text=Keep%20Automating%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Building&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+</div>

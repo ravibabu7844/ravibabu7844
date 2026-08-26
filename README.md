@@ -147,17 +147,18 @@ I work with **AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, Ansib
 - Configured 2 minimum and 5 maximum replicas
 - CPU-based autoscaling at 60% utilization
 
-### 🔄 Jenkins CI/CD Pipeline
+### 🔄 Jenkins CI/CD Pipeline with Docker & Kubernetes
 
-**Jenkins • Docker • SonarQube • Kubernetes**
+[🔗 View Project](https://github.com/ravibabu7844/jenkins-docker-kubernetes-pipeline)
 
-- Automated build pipeline
-- SonarQube integration
-- Docker image creation
-- Container registry integration
-- Kubernetes deployment
-- Continuous delivery
----
+**Jenkins • Docker • SonarQube • Docker Hub • Kubernetes**
+
+- Created end-to-end Jenkins CI/CD pipeline
+- Automated source checkout and Docker image build
+- Integrated secure Docker Hub authentication using Jenkins Credentials
+- Automated Docker image push with build-number and latest tags
+- Automated Kubernetes Namespace, Deployment and Service deployment
+- Added post-deployment verification for Pods, Deployments and Services
 
 ## 🎯 What I Do
 

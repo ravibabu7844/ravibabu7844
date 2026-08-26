@@ -159,6 +159,20 @@ I work with **AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, Ansib
 - Automated Docker image push with build-number and latest tags
 - Automated Kubernetes Namespace, Deployment and Service deployment
 - Added post-deployment verification for Pods, Deployments and Services
+- ### 🚀 GitHub Actions CI/CD with Amazon ECR & EKS
+
+[🔗 View Project](https://github.com/ravibabu7844/github-actions-ecr-eks-pipeline)
+
+**GitHub Actions • Docker • AWS • Amazon ECR • Amazon EKS • Kubernetes**
+
+- Created automated CI/CD workflow using GitHub Actions
+- Automated Docker image build and tagging using Git commit SHA
+- Configured workflow for Docker image push to Amazon ECR
+- Automated Kubernetes deployment to Amazon EKS
+- Added Namespace, Deployment and LoadBalancer Service manifests
+- Added deployment rollout verification using kubectl
+- Used GitHub Secrets for AWS credential references
+
 
 ## 🎯 What I Do
 

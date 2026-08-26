@@ -120,27 +120,32 @@ I work with **AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, Ansib
 
 ## 🌟 Featured DevOps Projects
 
-### ☁️ AWS Infrastructure with Terraform
+### ☁️ AWS Infrastructure Automation with Terraform
 
-**Terraform • AWS • VPC • EC2 • IAM • S3**
+[🔗 View Project](https://github.com/ravibabu7844/aws-terraform-infrastructure)
 
-- AWS infrastructure provisioning
-- VPC and networking
-- EC2 and IAM configuration
-- S3 remote state backend
-- Terraform state management
-- Infrastructure automation
+**Terraform • AWS • VPC • Subnet • Internet Gateway • Route Tables**
 
-### ☸️ Kubernetes / Amazon EKS
+- Automated AWS infrastructure provisioning using Terraform
+- Created custom VPC and public subnet
+- Configured Internet Gateway and public routing
+- Implemented reusable Terraform variables
+- Added Terraform outputs for infrastructure resources
+- Added example variable configuration and `.gitignore`
 
-**Kubernetes • Docker • Amazon EKS • Helm**
+### ☸️ Amazon EKS Kubernetes Deployment
 
-- EKS cluster deployment
-- Kubernetes deployments
-- Services and Ingress
-- Helm deployments
-- AWS Load Balancer Controller
-- Application scaling
+[🔗 View Project](https://github.com/ravibabu7844/eks-kubernetes-deployment)
+
+**Amazon EKS • Kubernetes • Docker • Nginx • HPA • LoadBalancer**
+
+- Containerized Nginx web application using Docker
+- Deployed application using Kubernetes Deployment
+- Configured dedicated Kubernetes namespace
+- Exposed application using LoadBalancer Service
+- Implemented Horizontal Pod Autoscaler (HPA)
+- Configured 2 minimum and 5 maximum replicas
+- CPU-based autoscaling at 60% utilization
 
 ### 🔄 Jenkins CI/CD Pipeline
 

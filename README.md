@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Ravi%20Babu%20%7C%20DevOps%20Engineer&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=AWS%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform&descSize=18&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/ravibabu7844">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%80+AWS+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+%26+Infrastructure+Automation;%F0%9F%90%B3+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Amazon+EKS;%F0%9F%8F%97%EF%B8%8F+Terraform+%E2%80%A2+Ansible+%E2%80%A2+IaC;%F0%9F%94%84+CI%2FCD+%E2%80%A2+Jenkins+%E2%80%A2+GitHub+Actions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=AWS+DevOps+Engineer;Cloud+%26+Infrastructure+Automation;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Amazon+EKS;Terraform+%E2%80%A2+Ansible+%E2%80%A2+Infrastructure+as+Code;CI%2FCD+%E2%80%A2+Jenkins+%E2%80%A2+GitHub+Actions" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -66,6 +66,189 @@ I work with **AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, Ansib
 
 </div>
 
-sible  │
+### 🔧 Infrastructure Automation
 
-                    
+```text
+Developer / Git
+       │
+       ▼
+GitHub / Bitbucket
+       │
+       ▼
+CI/CD Pipeline
+       │
+       ├── Jenkins
+       ├── GitHub Actions
+       ├── Azure DevOps
+       └── Harness
+       │
+       ▼
+Terraform / Ansible
+       │
+       ▼
+AWS Cloud
+       │
+       ├── VPC
+       ├── EC2
+       ├── S3
+       ├── IAM
+       └── EKS
+       │
+       ▼
+Docker / Kubernetes
+       │
+       ▼
+Monitoring & Observability
+       │
+       ├── Prometheus
+       ├── Grafana
+       ├── Datadog
+       └── CloudWatch
+
+       <div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+🔄 CI/CD Workflow
+Code Push
+    ↓
+GitHub / Bitbucket
+    ↓
+Build & Test
+    ↓
+Jenkins / GitHub Actions
+    ↓
+SonarQube
+    ↓
+Docker Build
+    ↓
+Container Registry
+    ↓
+Kubernetes / Amazon EKS
+    ↓
+Application Deployment
+    ↓
+Prometheus / Grafana / Datadog
+🐳 Kubernetes & Containers
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+Kubernetes Experience
+Amazon EKS cluster deployment
+Kubernetes Deployments & Services
+ConfigMaps & Secrets
+Namespaces
+Helm Charts
+Ingress
+AWS Load Balancer Controller
+Cluster Autoscaler
+Rolling deployments
+Application scaling
+Containerized application deployments
+📊 Monitoring & Observability
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+🌟 Featured DevOps Projects
+
+🚧 Projects will be added here as I build and publish them.
+
+☁️ AWS Infrastructure with Terraform
+AWS VPC and networking
+EC2 and IAM
+S3 backend
+Terraform state management
+Infrastructure automation
+☸️ Kubernetes / Amazon EKS
+EKS cluster
+Kubernetes deployments
+Services and Ingress
+Helm
+AWS Load Balancer Controller
+Application scaling
+🔄 Jenkins CI/CD Pipeline
+Automated build pipeline
+Docker image creation
+SonarQube integration
+Kubernetes deployment
+Continuous delivery
+🎯 What I Do
+☁️ Cloud Infrastructure
+        ↓
+🏗️ Infrastructure as Code
+        ↓
+🔄 CI/CD Automation
+        ↓
+🐳 Containerization
+        ↓
+☸️ Kubernetes / Amazon EKS
+        ↓
+📊 Monitoring & Observability
+        ↓
+🔐 Security & Reliability
+        ↓
+🚀 Continuous Delivery
+🧰 Tools & Technologies
+Category	Technologies
+☁️ Cloud	AWS, Azure, GCP
+🏗️ IaC	Terraform, Ansible
+🐳 Containers	Docker, Kubernetes, Amazon EKS
+🔄 CI/CD	Jenkins, GitHub Actions, Azure DevOps, Harness, Bamboo
+📊 Monitoring	Prometheus, Grafana, Datadog, Splunk, ELK, CloudWatch
+🔧 Scripting	Bash, Python, PowerShell
+🔀 Version Control	Git, GitHub, Bitbucket
+🔍 Code Quality	SonarQube
+📦 Packaging	Helm
+🎫 Collaboration	Jira, Confluence
+📚 Currently Exploring
+☸️ Advanced Kubernetes
+☁️ AWS Cloud Architecture
+🏗️ Advanced Terraform
+🔄 GitOps & CI/CD Automation
+📊 Cloud Observability
+🔐 DevSecOps
+⚙️ Platform Engineering
+📈 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ravibabu7844&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ravibabu7844&theme=radical&hide_border=true"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibabu7844&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravibabu7844&theme=synthwave&hide_border=true&bg_color=0D1117&color=22D3EE&line=ff1493&point=ffffff" width="95%"/> </div>
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/ravibabudodda/"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/ravibabu7844"> <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<br/><br/>
+
+⭐ Thanks for visiting my profile!
+
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=140&section=footer&text=Keep%20Automating%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Building&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/> ```

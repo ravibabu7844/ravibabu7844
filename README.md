@@ -107,15 +107,6 @@ Monitoring & Observability
 
        <div align="center">
 
-
-
-
-
-
-
-
-
-
 </div>
 🔄 CI/CD Workflow
 Code Push
